@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "22387355570",
+    "firebase_url": "https://my-to-do-app-3bfb4-default-rtdb.firebaseio.com",
+    "project_id": "my-to-do-app-3bfb4",
+    "storage_bucket": "my-to-do-app-3bfb4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:22387355570:android:9fe4b7c337b5c1a582beab",
+        "android_client_info": {
+          "package_name": "com.example.mytodoapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4k3wkglGnr4dmUVUCXvou55wNvTaeFpI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:22387355570:android:5518c9cfec2e618582beab",
+        "android_client_info": {
+          "package_name": "com.example.myweather"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4k3wkglGnr4dmUVUCXvou55wNvTaeFpI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:22387355570:android:a60ce3324103001282beab",
+        "android_client_info": {
+          "package_name": "com.example.taskmanager"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4k3wkglGnr4dmUVUCXvou55wNvTaeFpI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
